@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347063956321"
-global.ownername = "Precious Ayomide👑"
-global.ytname = "YT: Prexzyvilla"
+global.ownernomer = "233549772750"
+global.ownername = "King Rio✨"
+global.ytname = "YT: King Rio✨"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "Ghana, Accra"
 
-global.ownernumber = '2347063956321'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
+global.ownernumber = '233549772750'  //creator number
+global.ownername = 'King Rio✨' //owner name
 global.botname = '𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '👑Prexzy\n\nContact: +2347063956321'
+global.author = 'King Rio✨'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "PREXZYVILLA."
+global.wm = "King Rio✨"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://chat.whatsapp.com/HR76L0EPTf44pP0IBsN0vD'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -29,18 +29,18 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
